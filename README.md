@@ -4,8 +4,8 @@
 
 ### Team Members
 
-* Sidhya Jain
-* Ananya Pawar
+* Sidhya Jain - @sidhya3112
+* Ananya Pawar - 
 * Tejas Shinde
 * Surabhi Chandane
   
