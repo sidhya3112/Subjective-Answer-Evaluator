@@ -4,10 +4,10 @@
 
 ### Team Members
 
-* Sidhya Jain - @sidhya3112
-* Ananya Pawar
-* Tejas Shinde
-* Surabhi Chandane
+* Sidhya Jain - [@sidhya3112](https://www.github.com/sidhya3112)
+* Ananya Pawar - [@ananya-2311](https://www.github.com/ananya-2311)
+* Tejas Shinde - [@Tejas8101](https://www.github.com/Tejas8101)
+* Surabhi Chandane - [@surabhi175](https://www.github.com/surabhi175)
   
 ### Key Features
 
